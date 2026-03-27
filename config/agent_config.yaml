@@ -1,0 +1,10 @@
+# Sub-Agent Configuration
+sub_agent:
+  max_count: 30          # Maximum number of sub-agents
+  destroy_timeout: 300   # Auto-destroy timeout for inactive agents (seconds)
+# Memory Configuration
+memory:
+  archive_interval: 3600 # Short-term to long-term archive interval (seconds)
+# Capsule Configuration
+capsule:
+  schema_version: "1.0"  # Capsule structure version

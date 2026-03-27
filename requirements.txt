@@ -1,0 +1,14 @@
+pyautogui
+pygetwindow
+keyboard
+mouse
+pillow
+pywin32
+ollama
+streamlit
+plotly
+psutil
+cryptography
+pynput
+litellm
+python-dotenv
